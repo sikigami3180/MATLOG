@@ -9,7 +9,7 @@ an interpreter of predicate logic on matlab.
 
 ## Format of input
 ### fact
-`predicate,argNum,arg1,arg2,...,argN`
+`predicate,argNum,arg1,arg2,...,argN`  
 eg: An apple is red. -> "red,1,apple"  
     I love cat. -> "love,2,I,cat"  
 
